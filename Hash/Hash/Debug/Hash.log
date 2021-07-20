@@ -1,2 +1,12 @@
-﻿  Person.cpp
-  Hash.vcxproj -> C:\Users\dlwlrma\Documents\source\Hash\Debug\Hash.exe
+﻿  DLinkedList.cpp
+C:\Users\dlwlrma\Documents\GitHub\data_structure\Hash\Hash\DLinkedList.cpp(14,7): error C3861: 'SInsert': 식별자를 찾을 수 없습니다.
+C:\Users\dlwlrma\Documents\GitHub\data_structure\Hash\Hash\DLinkedList.cpp(26,6): error C2084: 'void FInsert(List *,LData)' 함수에 이미 본문이 있습니다.
+C:\Users\dlwlrma\Documents\GitHub\data_structure\Hash\Hash\DLinkedList.cpp(16): message : 'FInsert'의 이전 정의를 참조하십시오.
+  main.cpp
+C:\Users\dlwlrma\Documents\GitHub\data_structure\Hash\Hash\main.cpp(6,5): error C2365: 'HashFunc': 재정의: 이전 정의는 '형식 정의'입니다.
+C:\Users\dlwlrma\Documents\GitHub\data_structure\Hash\Hash\Table.h(9): message : 'HashFunc' 선언을 참조하십시오.
+C:\Users\dlwlrma\Documents\GitHub\data_structure\Hash\Hash\main.cpp(18,18): error C2275: 'HashFunc': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\dlwlrma\Documents\GitHub\data_structure\Hash\Hash\Table.h(9): message : 'HashFunc' 선언을 참조하십시오.
+  Person.cpp
+  Table.cpp
+  코드를 생성하고 있습니다...
